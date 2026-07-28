@@ -1,0 +1,9 @@
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.csproj.AssemblyReference.cache
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.AssemblyInfoInputs.cache
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.AssemblyInfo.cs
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mandhatri kancharana\Downloads\Cognizant_FSE_Full_Structure\DeepSkilling\Week-4\Microservices\Question1_JWTAuthentication\obj\Debug\net10.0\Question1_JWTAuthentication.sourcelink.json

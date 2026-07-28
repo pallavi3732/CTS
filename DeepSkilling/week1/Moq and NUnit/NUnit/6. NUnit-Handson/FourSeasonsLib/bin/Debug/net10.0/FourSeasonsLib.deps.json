@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FourSeasonsLib/1.0.0": {
+        "runtime": {
+          "FourSeasonsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FourSeasonsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

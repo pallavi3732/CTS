@@ -1,0 +1,12 @@
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.deps.json
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.dll
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.pdb
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.sourcelink.json
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.dll
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\refint\CustomerCommLib.dll
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.pdb
+C:\Users\palla\CTS\DeepSkilling\week1\Moq and NUnit\Moq\Excersise1_Write Testable Code with Moq\CustomerCommLib\obj\Debug\net10.0\ref\CustomerCommLib.dll

@@ -1,0 +1,6 @@
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab2_DbContext\obj\Debug\net10.0\Lab2_DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab2_DbContext\obj\Debug\net10.0\Lab2_DbContext.AssemblyInfoInputs.cache
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab2_DbContext\obj\Debug\net10.0\Lab2_DbContext.AssemblyInfo.cs
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab2_DbContext\obj\Debug\net10.0\Lab2_DbContext.csproj.CoreCompileInputs.cache
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab2_DbContext\obj\Debug\net10.0\Lab2_DbContext.sourcelink.json
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab2_DbContext\obj\Debug\net10.0\Lab2_DbContext.csproj.AssemblyReference.cache

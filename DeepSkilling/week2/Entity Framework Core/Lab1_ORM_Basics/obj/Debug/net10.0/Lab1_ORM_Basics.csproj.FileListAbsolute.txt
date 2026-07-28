@@ -1,0 +1,15 @@
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\bin\Debug\net10.0\Lab1_ORM_Basics.exe
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\bin\Debug\net10.0\Lab1_ORM_Basics.deps.json
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\bin\Debug\net10.0\Lab1_ORM_Basics.runtimeconfig.json
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\bin\Debug\net10.0\Lab1_ORM_Basics.dll
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\bin\Debug\net10.0\Lab1_ORM_Basics.pdb
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.AssemblyInfoInputs.cache
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.AssemblyInfo.cs
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.csproj.CoreCompileInputs.cache
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.sourcelink.json
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.dll
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\refint\Lab1_ORM_Basics.dll
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.pdb
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\Lab1_ORM_Basics.genruntimeconfig.cache
+C:\Users\palla\CTS\DeepSkilling\week2\Entity Framework Core\Lab1_ORM_Basics\obj\Debug\net10.0\ref\Lab1_ORM_Basics.dll
